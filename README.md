@@ -1,7 +1,7 @@
 # Task Manager Web Application
 
-A simple browser-based task manager application built using **HTML, CSS, and JavaScript**.  
-This project allows users to manage daily tasks with priorities, due dates, filtering, and persistent storage using **LocalStorage**.
+A simple browser-based Task Manager web application built using **HTML, CSS, and JavaScript**.  
+This project helps users manage daily tasks with priorities, due dates, filtering options, and persistent storage using **LocalStorage**.
 
 ---
 
@@ -16,21 +16,25 @@ This project allows users to manage daily tasks with priorities, due dates, filt
   - Completed
   - Pending
   - High / Medium / Low priority
-- View task statistics (Total, Completed, Pending)
-- Persistent storage using browser LocalStorage
+- View task statistics:
+  - Total tasks
+  - Completed tasks
+  - Pending tasks
+- Persistent data storage using browser LocalStorage
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Browser LocalStorage
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Browser LocalStorage  
 
 ---
 
 ## 📂 Project Structure
+
 ```text
 Task-Manager/
 ├── index.html
