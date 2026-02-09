@@ -38,14 +38,11 @@ Task-Manager/
 ├── script.js
 └── README.md
 
-
----
-
 ## ▶️ How to Run the Project
 
-1. Download or clone the repository
-2. Open the `index.html` file in any modern web browser
-3. Start adding and managing tasks
+1. Download or clone the repository  
+2. Open the `index.html` file in any modern web browser  
+3. Start adding and managing tasks  
 
 > No backend or server setup required.
 
@@ -53,19 +50,19 @@ Task-Manager/
 
 ## 🧠 Key Learnings
 
-- DOM manipulation and event handling in JavaScript
-- Client-side data persistence using LocalStorage
-- Implementing CRUD operations
-- Filtering and state management
-- Basic UI/UX design using CSS
+- DOM manipulation and event handling in JavaScript  
+- Client-side data persistence using LocalStorage  
+- Implementing CRUD operations  
+- Filtering and state management  
+- Basic UI/UX design using CSS  
 
 ---
 
 ## 📌 Future Enhancements
 
-- Search functionality
-- Responsive design improvements
-- Migration to React
+- Search functionality  
+- Responsive design improvements  
+- Migration to React  
 
 ---
 
