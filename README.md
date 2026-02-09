@@ -31,7 +31,7 @@ This project allows users to manage daily tasks with priorities, due dates, filt
 ---
 
 ## 📂 Project Structure
-
+```text
 Task-Manager/
 ├── index.html
 ├── style.css
