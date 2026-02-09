@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Task Manager</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="app">
+<h2>Task Manager</h2>
+<input type="text" id="taskInput" placeholder="Enter task" />
+<input type="date" id="dueDate" />
+<select id="priority">
+<option value="high">High</option>
+<option value="medium">Medium</option>
+<option value="low">Low</option>
+</select>
+<button id="addBtn">Add Task</button>
+<!-- Stats -->
+<div class="stats" id="stats"></div>
+<!-- Filters -->
+<div class="filters">
+<button data-filter="all">All</button>
+<button data-filter="completed">Completed</button>
+<button data-filter="pending">Pending</button>
+<button data-filter="high">High</button>
+<button data-filter="medium">Medium</button>
+<button data-filter="low">Low</button>
+</div>
+<ul id="taskList"></ul>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
